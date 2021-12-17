@@ -21,7 +21,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "dataset = pd.read_csv(\"LinksOfBooks.csv\")\n",
+    "dataset = pd.read_csv(\"books.csv\")\n",
     "dataset = make_blobs(n_samples=6000,\n",
     "                     centers=10,\n",
     "                     n_features=2,\n",
