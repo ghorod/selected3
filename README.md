@@ -7,6 +7,8 @@
 4-clean data in csv file 
 5-autocorrect from data in csv file and save update
 6-make cluster to data in csv file 
+7- create web-site with search engine 
+8- retreav releated data in web-site 
 
 
 # Team Names:
